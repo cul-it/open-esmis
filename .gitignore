@@ -1,2 +1,3 @@
 #
 # ignore files and directories
+apiclient/api_env.sh
